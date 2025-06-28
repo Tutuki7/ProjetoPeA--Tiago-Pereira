@@ -25,9 +25,9 @@ Este projeto foi realizado em grupo no âmbito da unidade curricular **Projeto d
 
 **Equipa:**
 - Mariana Valente (GitHub: [@mariannerv](https://github.com/mariannerv))
-- Gabriel Cordeiro
-- Tomás Rodrigues
-- Diogo Forte
+- Gabriel Cordeiro (GitHub: [@gabrielprojeto01](https://github.com/gabrielprojeto01))
+- Tomás Rodrigues (GitHub: [@tomasrodrigues01](https://github.com/tomasrodrigues01))
+- Diogo Forte (GitHub: [@dramataparty](https://github.com/dramataparty))
 - Tiago Pereira (este repositório)
 
 Este repositório representa uma versão pessoal e documentada para efeitos de portefólio, com base no trabalho desenvolvido em grupo.
