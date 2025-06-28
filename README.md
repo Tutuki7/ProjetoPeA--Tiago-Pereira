@@ -1,6 +1,6 @@
 # Projeto PE&A – Sistema de Gestão de Objetos Perdidos (Distribuído)
 
-Este projeto foi desenvolvido no âmbito da unidade curricular "Projeto de Tecnologias de Rede" e "Projeto de Tecnologias de Informação" da Licenciatura em Tecnologias de Informação (FCUL, 2023/2024).
+Este projeto foi desenvolvido no âmbito das unidades curriculares **Projeto de Tecnologias de Rede (PTR)** e **Projeto de Tecnologias de Informação (PTI)** da Licenciatura em Tecnologias de Informação (FCUL, 2023/2024).
 
 ## Objetivo
 Criar uma aplicação web distribuída para o registo, cruzamento e leilão de objetos perdidos/encontrados.
@@ -15,13 +15,13 @@ Criar uma aplicação web distribuída para o registo, cruzamento e leilão de o
 - Autenticação com Laravel Sanctum (Bearer tokens)
 
 ## Contributo pessoal
-- Desenvolvimento Back-End em Laravel (autenticação, licitações, cruzamento de objetos)
-- Desenvolvimento Front-End
-- Desenvolvimento e Administração da Base de Dados
+- Desenvolvimento **frontend** (interfaces com autenticação, registo de objetos, e leilões)
+- Implementação do **backend em Laravel**, incluindo APIs REST e autenticação com Laravel Sanctum
+- Criação, configuração e administração da **base de dados MongoDB** (cluster com redundância)
 
 ## Créditos e equipa
 
-Este projeto foi realizado em grupo no âmbito da unidade curricular **Projeto de Tecnologias de Rede (PTR)** da FCUL – 2023/2024.
+Este projeto foi realizado em grupo no âmbito das unidades curriculares **Projeto de Tecnologias de Rede (PTR)** e **Projeto de Tecnologias de Informação (PTI)** da FCUL – 2023/2024.
 
 **Equipa:**
 - Mariana Valente (GitHub: [@mariannerv](https://github.com/mariannerv))
