@@ -15,9 +15,19 @@ Criar uma aplicação web distribuída para o registo, cruzamento e leilão de o
 - Autenticação com Laravel Sanctum (Bearer tokens)
 
 ## Contributo pessoal
-- Desenvolvimento backend em Laravel (autenticação, licitações, cruzamento de objetos)
-- Configuração de autenticação e permissões
-- Firewalls externas e internas (iptables)
-- Documentação técnica e testes de segurança
+- Desenvolvimento Back-End em Laravel (autenticação, licitações, cruzamento de objetos)
+- Desenvolvimento Front-End
+- Desenvolvimento e Administração da Base de Dados
 
-> Projeto realizado em equipa (5 membros). Esta versão representa o meu contributo técnico e serve como portefólio pessoal.
+## Créditos e equipa
+
+Este projeto foi realizado em grupo no âmbito da unidade curricular **Projeto de Tecnologias de Rede (PTR)** da FCUL – 2023/2024.
+
+**Equipa:**
+- Mariana Valente (GitHub: [@mariannerv](https://github.com/mariannerv))
+- Gabriel Cordeiro
+- Tomás Rodrigues
+- Diogo Forte
+- Tiago Pereira (este repositório)
+
+Este repositório representa uma versão pessoal e documentada para efeitos de portefólio, com base no trabalho desenvolvido em grupo.
